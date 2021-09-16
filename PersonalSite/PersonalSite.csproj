@@ -79,7 +79,10 @@
     <Content Include="_archive\assets\webfonts\fa-brands-400.svg" />
     <Content Include="_archive\assets\webfonts\fa-regular-400.svg" />
     <Content Include="_archive\assets\webfonts\fa-solid-900.svg" />
+    <Content Include="_archive\images\Axel-Holen.jpg" />
     <Content Include="_archive\images\bg.jpg" />
+    <Content Include="_archive\images\Eric-Muhr.jpg" />
+    <Content Include="_archive\images\Le-Tan.jpg" />
     <Content Include="_archive\images\overlay.png" />
     <Content Include="_archive\images\pic01.jpg" />
     <Content Include="_archive\images\pic02.jpg" />
