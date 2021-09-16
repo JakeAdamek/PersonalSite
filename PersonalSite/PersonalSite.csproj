@@ -68,6 +68,25 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Web.config" />
+    <Content Include="_archive\assets\css\fontawesome-all.min.css" />
+    <Content Include="_archive\assets\css\main.css" />
+    <Content Include="_archive\assets\css\noscript.css" />
+    <Content Include="_archive\assets\js\breakpoints.min.js" />
+    <Content Include="_archive\assets\js\browser.min.js" />
+    <Content Include="_archive\assets\js\jquery.min.js" />
+    <Content Include="_archive\assets\js\main.js" />
+    <Content Include="_archive\assets\js\util.js" />
+    <Content Include="_archive\assets\webfonts\fa-brands-400.svg" />
+    <Content Include="_archive\assets\webfonts\fa-regular-400.svg" />
+    <Content Include="_archive\assets\webfonts\fa-solid-900.svg" />
+    <Content Include="_archive\images\bg.jpg" />
+    <Content Include="_archive\images\overlay.png" />
+    <Content Include="_archive\images\pic01.jpg" />
+    <Content Include="_archive\images\pic02.jpg" />
+    <Content Include="_archive\images\pic03.jpg" />
+    <Content Include="_archive\index.html" />
+    <Content Include="_archive\LICENSE.txt" />
+    <Content Include="_archive\README.txt" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -80,7 +99,44 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+    <Content Include="_archive\assets\sass\base\_page.scss" />
+    <Content Include="_archive\assets\sass\base\_reset.scss" />
+    <Content Include="_archive\assets\sass\base\_typography.scss" />
+    <Content Include="_archive\assets\sass\components\_actions.scss" />
+    <Content Include="_archive\assets\sass\components\_box.scss" />
+    <Content Include="_archive\assets\sass\components\_button.scss" />
+    <Content Include="_archive\assets\sass\components\_form.scss" />
+    <Content Include="_archive\assets\sass\components\_icon.scss" />
+    <Content Include="_archive\assets\sass\components\_icons.scss" />
+    <Content Include="_archive\assets\sass\components\_image.scss" />
+    <Content Include="_archive\assets\sass\components\_list.scss" />
+    <Content Include="_archive\assets\sass\components\_table.scss" />
+    <Content Include="_archive\assets\sass\layout\_bg.scss" />
+    <Content Include="_archive\assets\sass\layout\_footer.scss" />
+    <Content Include="_archive\assets\sass\layout\_header.scss" />
+    <Content Include="_archive\assets\sass\layout\_main.scss" />
+    <Content Include="_archive\assets\sass\layout\_wrapper.scss" />
+    <Content Include="_archive\assets\sass\libs\_breakpoints.scss" />
+    <Content Include="_archive\assets\sass\libs\_functions.scss" />
+    <Content Include="_archive\assets\sass\libs\_mixins.scss" />
+    <Content Include="_archive\assets\sass\libs\_vars.scss" />
+    <Content Include="_archive\assets\sass\libs\_vendor.scss" />
+    <Content Include="_archive\assets\sass\main.scss" />
+    <Content Include="_archive\assets\sass\noscript.scss" />
+    <Content Include="_archive\assets\webfonts\fa-brands-400.eot" />
+    <Content Include="_archive\assets\webfonts\fa-brands-400.ttf" />
+    <Content Include="_archive\assets\webfonts\fa-brands-400.woff" />
+    <Content Include="_archive\assets\webfonts\fa-brands-400.woff2" />
+    <Content Include="_archive\assets\webfonts\fa-regular-400.eot" />
+    <Content Include="_archive\assets\webfonts\fa-regular-400.ttf" />
+    <Content Include="_archive\assets\webfonts\fa-regular-400.woff" />
+    <Content Include="_archive\assets\webfonts\fa-regular-400.woff2" />
+    <Content Include="_archive\assets\webfonts\fa-solid-900.eot" />
+    <Content Include="_archive\assets\webfonts\fa-solid-900.ttf" />
+    <Content Include="_archive\assets\webfonts\fa-solid-900.woff" />
+    <Content Include="_archive\assets\webfonts\fa-solid-900.woff2" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
